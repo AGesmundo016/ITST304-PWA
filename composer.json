@@ -1,0 +1,7 @@
+{
+    "require": {
+        "davmixcool/php-sentiment-analyzer": "^1.2",
+        "jenssegers/date": "^4.0",
+        "stichoza/google-translate-php": "^5.1"
+    }
+}

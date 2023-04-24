@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+#score {
+	color: white;
+	text-align: center;
+}
+
+#canvas {
+	display: block;
+	margin: 0 auto;
+	border: 1px solid white;
+}
